@@ -63,9 +63,9 @@
 		30599956255A68E8006CF3E5 /* Team.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team.swift; sourceTree = "<group>"; };
 		3059995B255A6998006CF3E5 /* TeamDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamDetailsViewController.swift; sourceTree = "<group>"; };
 		30DFCA7A255AF54F00A626EB /* ApiClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiClient.swift; sourceTree = "<group>"; };
-		D10F7ECA255B3EC8006C7C3B /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Game.swift; path = NBAPlayers/Game.swift; sourceTree = SOURCE_ROOT; };
-		D10F7ECF255B4B5C006C7C3B /* GamesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GamesViewController.swift; path = NBAPlayers/GamesViewController.swift; sourceTree = SOURCE_ROOT; };
-		D10F7ED4255BF625006C7C3B /* GameDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GameDetailsViewController.swift; path = NBAPlayers/GameDetailsViewController.swift; sourceTree = SOURCE_ROOT; };
+		D10F7ECA255B3EC8006C7C3B /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Game.swift; path = NBAPlayers/Models/Game.swift; sourceTree = SOURCE_ROOT; };
+		D10F7ECF255B4B5C006C7C3B /* GamesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GamesViewController.swift; path = NBAPlayers/Screens/GamesViewController.swift; sourceTree = SOURCE_ROOT; };
+		D10F7ED4255BF625006C7C3B /* GameDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GameDetailsViewController.swift; path = NBAPlayers/Screens/GameDetailsViewController.swift; sourceTree = SOURCE_ROOT; };
 		D1D0DD3325648A6200534DE8 /* cryingjordan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cryingjordan.jpg; path = ../../../../../Downloads/cryingjordan.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
